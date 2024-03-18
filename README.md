@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nishankar</h1>
-<h3 align="center">I'am studying at UOP</h3>
+<h3 align="center">I'am a Graduate from University of Peradeniya</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nishan-Charlie" alt="Nishan-Charlie" /></a> </p>
 
 
-- 🔭 I’m currently working on [NGS data Analysing ToolKit](https://github.com/Nishan-Charlie/e17-co328-NGS-Data-AnalysingToolkit)
+- 🔭 I’m currently working on [e17-4yp-Applying-deep-learning-on-histological-images-of-lymph-tissues ](https://github.com/Nishan-Charlie/e17-4yp-Applying-deep-learning-on-histological-images-of-lymph-tissues)
 
 - 🌱 I’m currently learning **Web Application,Networking , Machine Learning,Network security,Empedded system,Algorithms**
 
-- 📝 I regularly write articles on 
+- 📝 I regularly write articles on [medium](https://medium.com/@nishannishankar/stack-data-structure-in-programming-be218bc0c090)
 
 - 📫 How to reach me **NishanNishankar@gmail.com**
 
