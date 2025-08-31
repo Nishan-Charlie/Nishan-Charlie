@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [e17-4yp-Applying-deep-learning-on-histological-images-of-lymph-tissues ](https://github.com/Nishan-Charlie/e17-4yp-Applying-deep-learning-on-histological-images-of-lymph-tissues)
 
-- 🌱 I’m currently learning **Web Application,Networking , Machine Learning,Network security,Empedded system,Algorithms**
+- 🌱 I’m currently learning **Robotics, Game Devlopemnet, Graphical Programming, Web Application,Networking , Machine Learning,Network security,Empedded system,Algorithms**
 
 - 📝 I regularly write articles on [medium](https://medium.com/@nishannishankar/stack-data-structure-in-programming-be218bc0c090)
 
