@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishankar Sathiyamohan</h1>
-<h3 align="center">Lecturer | AI & Computer Vision Researcher | Game Development Enthusiast</h3>
+<h3 align="center">Lecturer | AI & Computer Vision Researcher</h3>
 
 ---
 
