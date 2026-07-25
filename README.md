@@ -6,18 +6,22 @@
 -->
 
 <!-- ═════════════════════════════════════════════════════════════════════════════
-     HERO BANNER — Animated Wave
+     ANIMATED HERO BANNER 
      ═════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F23,50:1a1a2e,100:16213e&height=220&section=header&text=Nishankar%20Sathiyamohan&fontSize=42&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=Lecturer%20%7C%20AI%20%26%20Computer%20Vision%20Researcher&descAlignY=55&descSize=18&descColor=a0a0a0"/>
+  <!-- 
+    NOTE TO NISHANKAR: Replace the 'src' link below with the raw URL of the GIF 
+    you upload to your own repository to ensure it never breaks! 
+  -->
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" alt="AI and 3D Vision Animation" style="border-radius: 15px;" />
 </p>
 
 <!-- ═════════════════════════════════════════════════════════════════════════════
-     ANIMATED TYPING SVG — Dynamic Tagline
+     ANIMATED TYPING SVG
      ═════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <a href="https://github.com/Nishan-Charlie">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=Researching+3D+Computer+Vision+%26+World+Models;Advancing+Vision-Language+Models+(VLMs);Teaching+Computer+Science+%26+Artificial+Intelligence;Building+intelligent+systems+that+see+and+learn;Open+for+research+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Researching+3D+Computer+Vision+and+World+Models;Advancing+Vision-Language+Models+(VLMs);Teaching+Computer+Science+and+AI;Open+for+research+collaboration" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,31 +30,28 @@
      ═════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <a href="https://nishan-charlie.github.io/portfolio/index.html">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-00d4ff?style=for-the-badge&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&labelColor=0d1117" alt="Portfolio" />
   </a>
   <a href="mailto:NishanNishankar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/nishankar-sathiyamohan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
   </a>
   <a href="https://medium.com/@nishannishankar">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0d1117" alt="Medium" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://orcid.org/0009-0008-4321-1920">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0d1117" alt="ORCID" />
   </a>
   <a href="https://scholar.google.com/citations?user=kqrLPFsAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=0d1117" alt="Google Scholar" />
   </a>
   <a href="https://www.researchgate.net/profile/Nishankar-Sathiyamohan-2">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=0d1117" />
-  </a>
-  <a href="https://github.com/Nishan-Charlie">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=0d1117" alt="ResearchGate" />
   </a>
 </p>
 
@@ -60,8 +61,8 @@
      QUICK IDENTITY & RESEARCH FOCUS
      ═════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓%20Computer%20Engineering%20—%20University%20of%20Peradeniya-1a1a2e?style=flat-square&color=1a1a2e&labelColor=0F0F23" />
-  <img src="https://img.shields.io/badge/🏫%20Lecturer%20—%20Sabaragamuwa%20University%20of%20Sri%20Lanka-1a1a2e?style=flat-square&color=1a1a2e&labelColor=0F0F23" />
+  <img src="https://img.shields.io/badge/🎓_Computer_Engineering_—_University_of_Peradeniya-1a1a2e?style=flat-square&color=1a1a2e&labelColor=0F0F23" alt="Degree" />
+  <img src="https://img.shields.io/badge/🏫_Lecturer_—_Sabaragamuwa_University_of_Sri_Lanka-1a1a2e?style=flat-square&color=1a1a2e&labelColor=0F0F23" alt="Profession" />
 </p>
 
 <h3 align="center">🔬 Current Research & Academic Focus</h3>
@@ -72,34 +73,34 @@
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════════════════════
-     TECH STACK — Skill Icons Grouped
+     TECH STACK
      ═════════════════════════════════════════════════════════════════════════════ -->
 <h3 align="center">⚡ Tech Stack</h3>
 
 <p align="center">
   <b>AI / ML / Vision</b><br>
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch&theme=dark" alt="AI Stack" />
 </p>
 
 <p align="center">
   <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,php&theme=dark" alt="Languages" />
 </p>
 
 <p align="center">
   <b>Web & Mobile</b><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,android,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,android,firebase&theme=dark" alt="Web Mobile" />
 </p>
 
 <p align="center">
   <b>Tools & Platforms</b><br>
-  <img src="https://skillicons.dev/icons?i=mysql,git,linux,arduino,selenium,blender,photoshop,gcp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,linux,arduino,selenium,blender,photoshop,gcp&theme=dark" alt="Tools" />
 </p>
 
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════════════════════
-     GITHUB ANALYTICS — Stats + Languages + Streak (DEBUGGED)
+     GITHUB ANALYTICS 
      ═════════════════════════════════════════════════════════════════════════════ -->
 <h3 align="center">📊 GitHub Analytics</h3>
 
@@ -109,44 +110,40 @@
 </p>
 
 <p align="center">
-  <!-- Replaced broken herokuapp link with stable demolab link -->
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Nishan-Charlie&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&border_radius=12" height="165" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Nishan-Charlie&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&border_radius=12" height="165" alt="GitHub Streak" />
 </p>
 
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════════════════════
-     TROPHIES — GitHub Achievements (DEBUGGED MARGINS)
+     TROPHIES
      ═════════════════════════════════════════════════════════════════════════════ -->
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
-  <!-- Added margins to prevent visual overlapping on mobile and smaller displays -->
   <img src="https://github-profile-trophy.vercel.app/?username=Nishan-Charlie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════════════════════
-     CONTRIBUTION SNAKE — Animated Graph
+     ACTIVITY GRAPH
      ═════════════════════════════════════════════════════════════════════════════ -->
-<h3 align="center">🐍 Contribution Graph</h3>
+<h3 align="center">📈 Contribution Activity</h3>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nishan-Charlie/Nishan-Charlie/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nishan-Charlie/Nishan-Charlie/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Nishan-Charlie/Nishan-Charlie/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <a href="https://github.com/Nishan-Charlie">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishan-Charlie&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  </a>
 </p>
 
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════════════════════
-     FOOTER — Wave + Quote + Profile Views
+     FOOTER 
      ═════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0F0F23&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0F0F23&height=120&section=footer" alt="Footer Wave" />
 </p>
 
 <p align="center">
