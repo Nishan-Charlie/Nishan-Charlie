@@ -9,11 +9,10 @@
      ANIMATED HERO BANNER 
      ═════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <!-- 
-    NOTE TO NISHANKAR: Replace the 'src' link below with the raw URL of the GIF 
-    you upload to your own repository to ensure it never breaks! 
-  -->
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" alt="AI and 3D Vision Animation" style="border-radius: 15px;" />
+  <!-- Replace with your own hosted GIF link -->
+  <a href="https://github.com/Nishan-Charlie">
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" alt="[ Animated AI and 3D Vision Hero Banner ]" style="border-radius: 15px;" />
+  </a>
 </p>
 
 <!-- ═════════════════════════════════════════════════════════════════════════════
@@ -21,7 +20,7 @@
      ═════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <a href="https://github.com/Nishan-Charlie">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Researching+3D+Computer+Vision+and+World+Models;Advancing+Vision-Language+Models+(VLMs);Teaching+Computer+Science+and+AI;Open+for+research+collaboration" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Researching+3D+Computer+Vision+and+World+Models;Advancing+Vision-Language+Models+(VLMs);Teaching+Computer+Science+and+AI;Open+for+research+collaboration" alt="[ Exploring the intersection of AI, Vision & HCI ]" />
   </a>
 </p>
 
@@ -79,38 +78,44 @@
 
 <p align="center">
   <b>AI / ML / Vision</b><br>
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch&theme=dark" alt="AI Stack" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch&theme=dark" alt="[ AI and ML Tech Stack ]" />
 </p>
 
 <p align="center">
   <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,php&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,php&theme=dark" alt="[ Programming Languages ]" />
 </p>
 
 <p align="center">
   <b>Web & Mobile</b><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,android,firebase&theme=dark" alt="Web Mobile" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,android,firebase&theme=dark" alt="[ Web and Mobile Development ]" />
 </p>
 
 <p align="center">
   <b>Tools & Platforms</b><br>
-  <img src="https://skillicons.dev/icons?i=mysql,git,linux,arduino,selenium,blender,photoshop,gcp&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,linux,arduino,selenium,blender,photoshop,gcp&theme=dark" alt="[ Development Tools and Platforms ]" />
 </p>
 
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════════════════════
-     GITHUB ANALYTICS 
+     GITHUB ANALYTICS — Using Alternative Low-Congestion Mirrors
      ═════════════════════════════════════════════════════════════════════════════ -->
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishan-Charlie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_radius=12&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishan-Charlie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=12" height="165" alt="Top Languages" />
+  <a href="https://github.com/Nishan-Charlie">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nishan-Charlie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_radius=12&count_private=true&cache_seconds=86400" height="165" alt="[ GitHub Stats currently unavailable ]" />
+  </a>
+  <a href="https://github.com/Nishan-Charlie">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Nishan-Charlie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=12&cache_seconds=86400" height="165" alt="[ Top Languages currently unavailable ]" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nishan-Charlie&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&border_radius=12" height="165" alt="GitHub Streak" />
+  <a href="https://github.com/Nishan-Charlie">
+    <img src="https://streak-stats.demolab.com?user=Nishan-Charlie&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&border_radius=12&cache_seconds=86400" height="165" alt="[ GitHub Streak currently unavailable ]" />
+  </a>
 </p>
 
 <br>
@@ -121,19 +126,25 @@
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nishan-Charlie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
+  <a href="https://github.com/Nishan-Charlie">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nishan-Charlie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4&cache_seconds=86400" alt="[ GitHub Trophies currently unavailable ]" />
+  </a>
 </p>
 
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════════════════════
-     ACTIVITY GRAPH
+     CONTRIBUTION SNAKE
      ═════════════════════════════════════════════════════════════════════════════ -->
-<h3 align="center">📈 Contribution Activity</h3>
+<h3 align="center">🐍 Contribution Graph</h3>
 
 <p align="center">
   <a href="https://github.com/Nishan-Charlie">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishan-Charlie&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nishan-Charlie/Nishan-Charlie/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nishan-Charlie/Nishan-Charlie/output/github-contribution-grid-snake.svg" />
+      <img src="https://raw.githubusercontent.com/Nishan-Charlie/Nishan-Charlie/output/github-contribution-grid-snake-dark.svg" alt="[ Contribution Snake missing. Have you run the GitHub Action? ]" />
+    </picture>
   </a>
 </p>
 
@@ -143,7 +154,7 @@
      FOOTER 
      ═════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0F0F23&height=120&section=footer" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0F0F23&height=120&section=footer" alt="Footer graphic" />
 </p>
 
 <p align="center">
