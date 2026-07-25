@@ -11,7 +11,7 @@
 <p align="center">
   <!-- Replace with your own hosted GIF link -->
   <a href="https://github.com/Nishan-Charlie">
-    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" alt="[ Animated AI and 3D Vision Hero Banner ]" style="border-radius: 15px;" />
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30%" alt="[ Animated AI and 3D Vision Hero Banner ]" style="border-radius: 15px;" />
   </a>
 </p>
 
