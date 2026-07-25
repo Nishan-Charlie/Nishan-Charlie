@@ -1,7 +1,7 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════════════════╗
   ║  NISHANKAR SATHIYAMOHAN — GITHUB PROFILE README                              ║
-  ║  Modern • Minimal • Mind-blowing                                             ║
+  ║  Modern • Minimal • Research-Driven                                          ║
   ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 
@@ -17,12 +17,12 @@
      ═════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <a href="https://github.com/Nishan-Charlie">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Exploring+the+intersection+of+AI%2C+Vision+%26+HCI;Teaching+Game+Dev+%26+Artificial+Intelligence;Building+intelligent+systems+that+see+and+learn;Open+for+research+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=Researching+3D+Computer+Vision+%26+World+Models;Advancing+Vision-Language+Models+(VLMs);Teaching+Computer+Science+%26+Artificial+Intelligence;Building+intelligent+systems+that+see+and+learn;Open+for+research+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- ═════════════════════════════════════════════════════════════════════════════
-     SOCIAL & ACADEMIC BADGES — All Profiles
+     SOCIAL & ACADEMIC BADGES 
      ═════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <a href="https://nishan-charlie.github.io/portfolio/index.html">
@@ -57,11 +57,16 @@
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════════════════════
-     QUICK IDENTITY
+     QUICK IDENTITY & RESEARCH FOCUS
      ═════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://img.shields.io/badge/🎓%20Computer%20Engineering%20—%20University%20of%20Peradeniya-1a1a2e?style=flat-square&color=1a1a2e&labelColor=0F0F23" />
   <img src="https://img.shields.io/badge/🏫%20Lecturer%20—%20Sabaragamuwa%20University%20of%20Sri%20Lanka-1a1a2e?style=flat-square&color=1a1a2e&labelColor=0F0F23" />
+</p>
+
+<h3 align="center">🔬 Current Research & Academic Focus</h3>
+<p align="center">
+  <i>Currently exploring the frontiers of spatial understanding and multi-modal intelligence. My active research areas include <b>3D Computer Vision</b>, the development and fine-tuning of <b>Vision-Language Models (VLMs)</b>, and simulating complex environments through <b>World Models</b>. I am dedicated to bridging the gap between cutting-edge AI research and comprehensive computer science education.</i>
 </p>
 
 <br>
@@ -94,28 +99,30 @@
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════════════════════
-     GITHUB ANALYTICS — Stats + Languages + Streak
+     GITHUB ANALYTICS — Stats + Languages + Streak (DEBUGGED)
      ═════════════════════════════════════════════════════════════════════════════ -->
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishan-Charlie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_radius=12" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishan-Charlie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_radius=12&count_private=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishan-Charlie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=12" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishan-Charlie&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&border_radius=12" height="165" alt="GitHub Streak" />
+  <!-- Replaced broken herokuapp link with stable demolab link -->
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Nishan-Charlie&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&border_radius=12" height="165" alt="GitHub Streak" />
 </p>
 
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════════════════════
-     TROPHIES — GitHub Achievements
+     TROPHIES — GitHub Achievements (DEBUGGED MARGINS)
      ═════════════════════════════════════════════════════════════════════════════ -->
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nishan-Charlie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4" alt="GitHub Trophies" />
+  <!-- Added margins to prevent visual overlapping on mobile and smaller displays -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Nishan-Charlie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 <br>
@@ -147,5 +154,5 @@
 </p>
 
 <p align="center">
-  <i><b>"Exploring the intersection of AI, Vision & Human-Computer Interaction."</b></i>
+  <i><b>"Engineering multi-modal intelligence through 3D Vision, World Models, and VLMs."</b></i>
 </p>
