@@ -1,8 +1,7 @@
-<!-- 
+<!--
   ╔══════════════════════════════════════════════════════════════════════════════╗
   ║  NISHANKAR SATHIYAMOHAN — GITHUB PROFILE README                              ║
   ║  Modern • Minimal • Mind-blowing                                             ║
-  ║  Copy everything below into your README.md                                   ║
   ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 
@@ -23,27 +22,42 @@
 </p>
 
 <!-- ═════════════════════════════════════════════════════════════════════════════
-     SOCIAL BADGES — Clean Shields.io
+     SOCIAL & ACADEMIC BADGES — All Profiles
      ═════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
+  <a href="https://nishan-charlie.github.io/portfolio/index.html">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-00d4ff?style=for-the-badge&labelColor=0d1117" />
+  </a>
   <a href="mailto:NishanNishankar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://www.linkedin.com/in/nishankar-sathiyamohan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>
   <a href="https://medium.com/@nishannishankar">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=1a1a2e" />
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0d1117" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://orcid.org/0009-0008-4321-1920">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=kqrLPFsAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Nishankar-Sathiyamohan-2">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=0d1117" />
   </a>
   <a href="https://github.com/Nishan-Charlie">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
-  </a>
-  <a href="https://linkedin.com/in/nishankar-sathiyamohan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
 
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════════════════════
-     ABOUT — One powerful sentence
+     QUICK IDENTITY
      ═════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://img.shields.io/badge/🎓%20Computer%20Engineering%20—%20University%20of%20Peradeniya-1a1a2e?style=flat-square&color=1a1a2e&labelColor=0F0F23" />
@@ -53,12 +67,12 @@
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════════════════════
-     TECH STACK — Modern Skill Icons (Grouped)
+     TECH STACK — Skill Icons Grouped
      ═════════════════════════════════════════════════════════════════════════════ -->
 <h3 align="center">⚡ Tech Stack</h3>
 
 <p align="center">
-  <b>AI / ML</b><br>
+  <b>AI / ML / Vision</b><br>
   <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch&theme=dark" />
 </p>
 
@@ -80,106 +94,58 @@
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════════════════════
-     GITHUB STATS — Compact & Themed
+     GITHUB ANALYTICS — Stats + Languages + Streak
      ═════════════════════════════════════════════════════════════════════════════ -->
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishan-Charlie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_radius=12" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishan-Charlie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=12" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishan-Charlie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_radius=12" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishan-Charlie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=12" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishan-Charlie&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&border_radius=12" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishan-Charlie&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&border_radius=12" height="165" alt="GitHub Streak" />
 </p>
 
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════════════════════
-     TROPHIES — Gamified Achievements
+     TROPHIES — GitHub Achievements
      ═════════════════════════════════════════════════════════════════════════════ -->
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nishan-Charlie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nishan-Charlie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════════════════════
-     CONTRIBUTION SNAKE — The Iconic Animation
+     CONTRIBUTION SNAKE — Animated Graph
      ═════════════════════════════════════════════════════════════════════════════ -->
 <h3 align="center">🐍 Contribution Graph</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nishan-Charlie/Nishan-Charlie/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/Nishan-Charlie/Nishan-Charlie/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nishan-Charlie/Nishan-Charlie/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nishan-Charlie/Nishan-Charlie/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Nishan-Charlie/Nishan-Charlie/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════════════════════
-     FOOTER — Clean wave + quote
+     FOOTER — Wave + Quote + Profile Views
      ═════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0F0F23&height=120&section=footer"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nishan-Charlie&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=Nishan-Charlie&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views" />
 </p>
 
 <p align="center">
   <i><b>"Exploring the intersection of AI, Vision & Human-Computer Interaction."</b></i>
 </p>
-
-<!-- ═════════════════════════════════════════════════════════════════════════════
-     SETUP INSTRUCTIONS (Hidden in HTML comment — remove before publishing)
-     ═════════════════════════════════════════════════════════════════════════════ -->
-<!--
-═══════════════════════════════════════════════════════════════════════════════════
-📋 SETUP GUIDE — Follow these steps to activate everything:
-═══════════════════════════════════════════════════════════════════════════════════
-
-1️⃣  CONTRIBUTION SNAKE (GitHub Action)
-    • Create folder: .github/workflows/ in your profile repo
-    • Create file: .github/workflows/snake.yml
-    • Paste this YAML:
-
-    ─────────────────────────────────────────────────────────────────────────────
-    name: Generate Snake
-    on:
-      schedule:
-        - cron: "0 0 * * *"
-      workflow_dispatch:
-    jobs:
-      build:
-        runs-on: ubuntu-latest
-        steps:
-          - uses: actions/checkout@v3
-          - uses: Platane/snk@v3
-            with:
-              github_user_name: Nishan-Charlie
-              outputs: |
-                dist/github-contribution-grid-snake.svg
-                dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          - uses: crazy-max/ghaction-github-pages@v3
-            with:
-              target_branch: output
-              build_dir: dist
-            env:
-              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    ─────────────────────────────────────────────────────────────────────────────
-
-    • Go to Actions tab → Run workflow manually first time
-    • The snake files will be pushed to the "output" branch
-
-2️⃣  PROFILE VIEWS BADGE
-    • Already works automatically — no setup needed!
-
-3️⃣  ALL OTHER WIDGETS
-    • All other badges/stats are dynamic and auto-update
-    • No additional setup required
-
-═══════════════════════════════════════════════════════════════════════════════════
--->
