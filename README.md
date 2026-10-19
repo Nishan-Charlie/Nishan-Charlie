@@ -8,6 +8,7 @@
   </a>
 
   <a href="https://nishan-charlie.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-24292f?logo=googlechrome&logoColor=white&style=flat" alt="Portfolio" height="24"></a>&nbsp;
+  <a href="https://msc.nishankar.space/"><img src="https://img.shields.io/badge/MSc_Research-24292f?logo=bookstack&logoColor=white&style=flat" alt="MSc research" height="24"></a>&nbsp;
   <a href="https://scholar.google.com/citations?user=kqrLPFsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-24292f?logo=googlescholar&logoColor=white&style=flat" alt="Google Scholar" height="24"></a>&nbsp;
   <a href="https://orcid.org/0009-0008-4321-1920"><img src="https://img.shields.io/badge/ORCID-24292f?logo=orcid&logoColor=white&style=flat" alt="ORCID" height="24"></a>&nbsp;
   <a href="https://www.researchgate.net/profile/Nishankar-Sathiyamohan-2"><img src="https://img.shields.io/badge/ResearchGate-24292f?logo=researchgate&logoColor=white&style=flat" alt="ResearchGate" height="24"></a>&nbsp;
@@ -41,6 +42,7 @@
 
 ### Now
 
+- **MSc:** occlusion-aware 3D perception for wildfire fuel structure from UAV LiDAR. [Progress page](https://msc.nishankar.space/)
 - Spatial reasoning in **vision language models** over 3D and point cloud data
 - Camera-only **4D scene understanding** with abstract 3D representations
 - **Faithful attribution** for Vision Transformers (conservation-valid LRP)
