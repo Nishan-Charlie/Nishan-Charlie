@@ -259,5 +259,4 @@ for mode, th in THEMES.items():
     write(f"banner-{mode}.svg", banner(th))
     write(f"hero-{mode}.svg", hero(th))
     write(f"toolkit-{mode}.svg", toolkit(th))
-    write(f"footer-3d-{mode}.svg", footer(th))
 print("assets written to", OUT)
