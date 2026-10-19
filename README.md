@@ -31,7 +31,49 @@
     researching full time and <b>open to PhD opportunities</b> and research collaborations.
   </p>
 
-  <br>
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Now
+
+- Spatial reasoning in **vision language models** over 3D and point cloud data
+- Camera-only **4D scene understanding** with abstract 3D representations
+- **Faithful attribution** for Vision Transformers (conservation-valid LRP)
+- Diverse **retinal image generation** guided by vascular graphs
+- Compact **hybrid quantum-classical** networks for medical images
+
+</td>
+<td width="50%" valign="top">
+
+### Selected work
+
+- **HiLRP**: one trustworthy explanation for ViTs via attention primitives. [arXiv:2609.01282](https://arxiv.org/abs/2609.01282)
+- **Does explainability transfer?** Attribution methods on ViTs and CNNs. [arXiv:2608.02396](https://arxiv.org/abs/2608.02396)
+- **Citrus leaf disease recognition**: a survey. *Artificial Intelligence Review*, 2026
+- **ViT-RoT** and **TOM-SSL**. *AgriEngineering*, 2025
+- Full list on [Google Scholar](https://scholar.google.com/citations?user=kqrLPFsAAAAJ&hl=en)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Latest writing on Medium</b></summary>
+<br>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+</details>
+
+<br>
+
+<div align="center">
 
   <a href="https://github.com/Nishan-Charlie">
     <picture>
@@ -49,6 +91,13 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Nishan-Charlie&hide_border=true&background=0d1117&stroke=30363d&ring=e3b341&fire=e3b341&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=e3b341&sideLabels=7d8590&dates=7d8590">
     <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Nishan-Charlie&hide_border=true&background=ffffff&stroke=d0d7de&ring=9a6700&fire=9a6700&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=9a6700&sideLabels=656d76&dates=656d76" width="48%">
+  </picture>
+
+  <br><br>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Nishan-Charlie&bg_color=0d1117&color=7d8590&title_color=e6edf3&line=e3b341&point=e6edf3&area=true&area_color=e3b341&hide_border=true&custom_title=Contribution%20activity">
+    <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Nishan-Charlie&bg_color=ffffff&color=656d76&title_color=1f2328&line=9a6700&point=1f2328&area=true&area_color=9a6700&hide_border=true&custom_title=Contribution%20activity" width="100%">
   </picture>
 
   <br><br>
