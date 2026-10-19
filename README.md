@@ -66,7 +66,11 @@
 <summary><b>Latest writing on Medium</b></summary>
 <br>
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [First Step into Robotics: A Beginner&#39;s Guide to WeBots](https://medium.com/@nishannishankar/first-step-into-robotics-a-beginners-guide-to-webots-297d9bb1bbed?source=rss-5ea79f83594e------2) <sub>Sep 10, 2025</sub>
+- [How Dune Became the Godfather of Modern Fiction and Novels](https://medium.com/@nishannishankar/how-dune-became-the-godfather-of-modern-fiction-and-novels-0a656a9a5a2b?source=rss-5ea79f83594e------2) <sub>May 5, 2025</sub>
+- [Understanding Vision Transformers &lpar;ViT&rpar; with Hugging Face Implementation.](https://medium.com/@nishannishankar/understanding-vision-transformers-vit-with-hugging-face-implementation-91bb6247972d?source=rss-5ea79f83594e------2) <sub>May 5, 2025</sub>
+- [DINO: Understanding Emerging Properties in Self-Supervised Vision Transformers](https://medium.com/@nishannishankar/dino-understanding-emerging-properties-in-self-supervised-vision-transformers-a074d0adea59?source=rss-5ea79f83594e------2) <sub>May 5, 2025</sub>
+- [Mastering Competitive Programming: Exploring the Best Learning Platforms](https://medium.com/@nishannishankar/mastering-competitive-programming-exploring-the-best-learning-platforms-e48a8068430c?source=rss-5ea79f83594e------2) <sub>Aug 21, 2023</sub>
 <!-- BLOG-POST-LIST:END -->
 
 </details>
