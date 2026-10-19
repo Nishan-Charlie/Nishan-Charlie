@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="64" viewBox="0 0 800 64" role="img" aria-label="vision.see(world).explain(why)">
+<style>
+  .ch { opacity:0; animation: on .01s linear forwards; }
+  @keyframes on { to { opacity:1 } }
+  .cur { animation: move 2.55s steps(34) .6s forwards, blink 1s step-end infinite; }
+  @keyframes move { to { transform: translateX(492.6px) } }
+  @keyframes blink { 50% { opacity:0 } }
+</style>
+<rect x="0.5" y="0.5" width="799" height="63" rx="6" fill="none" stroke="#d0d7de"/>
+<g style="font: 700 24px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, 'Courier New', monospace">
+<text x="155.2" y="40" fill="#656d76" class="ch" style="animation-delay:0.600s">></text>
+<text x="169.6" y="40" fill="#656d76" class="ch" style="animation-delay:0.675s">></text>
+<text x="184.0" y="40" fill="#656d76" class="ch" style="animation-delay:0.750s">></text>
+<text x="212.8" y="40" fill="#1f2328" class="ch" style="animation-delay:0.900s">v</text>
+<text x="227.2" y="40" fill="#1f2328" class="ch" style="animation-delay:0.975s">i</text>
+<text x="241.6" y="40" fill="#1f2328" class="ch" style="animation-delay:1.050s">s</text>
+<text x="256.0" y="40" fill="#1f2328" class="ch" style="animation-delay:1.125s">i</text>
+<text x="270.4" y="40" fill="#1f2328" class="ch" style="animation-delay:1.200s">o</text>
+<text x="284.8" y="40" fill="#1f2328" class="ch" style="animation-delay:1.275s">n</text>
+<text x="299.2" y="40" fill="#9a6700" class="ch" style="animation-delay:1.350s">.</text>
+<text x="313.6" y="40" fill="#9a6700" class="ch" style="animation-delay:1.425s">s</text>
+<text x="328.0" y="40" fill="#9a6700" class="ch" style="animation-delay:1.500s">e</text>
+<text x="342.4" y="40" fill="#9a6700" class="ch" style="animation-delay:1.575s">e</text>
+<text x="356.8" y="40" fill="#656d76" class="ch" style="animation-delay:1.650s">(</text>
+<text x="371.2" y="40" fill="#1f2328" class="ch" style="animation-delay:1.725s">w</text>
+<text x="385.6" y="40" fill="#1f2328" class="ch" style="animation-delay:1.800s">o</text>
+<text x="400.0" y="40" fill="#1f2328" class="ch" style="animation-delay:1.875s">r</text>
+<text x="414.4" y="40" fill="#1f2328" class="ch" style="animation-delay:1.950s">l</text>
+<text x="428.8" y="40" fill="#1f2328" class="ch" style="animation-delay:2.025s">d</text>
+<text x="443.2" y="40" fill="#656d76" class="ch" style="animation-delay:2.100s">)</text>
+<text x="457.6" y="40" fill="#9a6700" class="ch" style="animation-delay:2.175s">.</text>
+<text x="472.0" y="40" fill="#9a6700" class="ch" style="animation-delay:2.250s">e</text>
+<text x="486.4" y="40" fill="#9a6700" class="ch" style="animation-delay:2.325s">x</text>
+<text x="500.8" y="40" fill="#9a6700" class="ch" style="animation-delay:2.400s">p</text>
+<text x="515.2" y="40" fill="#9a6700" class="ch" style="animation-delay:2.475s">l</text>
+<text x="529.6" y="40" fill="#9a6700" class="ch" style="animation-delay:2.550s">a</text>
+<text x="544.0" y="40" fill="#9a6700" class="ch" style="animation-delay:2.625s">i</text>
+<text x="558.4" y="40" fill="#9a6700" class="ch" style="animation-delay:2.700s">n</text>
+<text x="572.8" y="40" fill="#656d76" class="ch" style="animation-delay:2.775s">(</text>
+<text x="587.2" y="40" fill="#1f2328" class="ch" style="animation-delay:2.850s">w</text>
+<text x="601.6" y="40" fill="#1f2328" class="ch" style="animation-delay:2.925s">h</text>
+<text x="616.0" y="40" fill="#1f2328" class="ch" style="animation-delay:3.000s">y</text>
+<text x="630.4" y="40" fill="#656d76" class="ch" style="animation-delay:3.075s">)</text>
+</g>
+<rect x="155.2" y="22" width="8.6" height="24" fill="#9a6700" class="cur"/>
+</svg>
